@@ -4,14 +4,14 @@
 
 - 🧩 最近在做「Agent 工具链」：给 DeepSeek Harness 写插件，把开源协作经验蒸馏成 skill
 - 🤖 关注 AI Agent / LLM 应用 / 开源协作
-- 😊 Open to work，欢迎交流
+- 💬 Open to work，欢迎通过 GitHub 联系
 
 ### Profile Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=qikairo7&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=ffffff" alt="Leo's Profile Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qikairo7&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=6&bg_color=ffffff" alt="Leo's Top Langs" /> |
-| ------------- | ------------- |
+<img src="https://raw.githubusercontent.com/qikairo7/qikairo7/main/metrics-base.svg" width="100%" alt="Leo's GitHub metrics" />
 
-[![Leo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qikairo7&theme=tokyo-night&bg_color=ffffff)](https://github.com/qikairo7)
+| <img align="center" src="https://raw.githubusercontent.com/qikairo7/qikairo7/main/metrics-languages.svg" alt="Leo's Top Langs" /> | <img align="center" src="https://raw.githubusercontent.com/qikairo7/qikairo7/main/metrics-isocalendar.svg" alt="Leo's isocalendar" /> |
+| ------------- | ------------- |
 
 ### Working On
 
