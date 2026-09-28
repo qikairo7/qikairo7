@@ -1,18 +1,10 @@
 <a href="https://github.com/qikairo7/"><img align="right" src="https://komarev.com/ghpvc/?username=qikairo7&label=Views"></a>
 
-# 👋 你好，我是 Leo
+# 你好，我是 Leo
 
 - 🧩 最近在做「Agent 工具链」：给 DeepSeek Harness 写插件，把开源协作经验蒸馏成 skill
 - 🤖 关注 AI Agent / LLM 应用 / 开源协作
 - 💬 Open to work，欢迎通过 GitHub 联系
-
-## Profile Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/qikairo7/qikairo7/main/metrics-base.svg" width="620" alt="Leo's GitHub metrics" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/qikairo7/qikairo7/main/metrics-isocalendar.svg" width="620" alt="Leo's isocalendar" />
-</div>
 
 ## Working On
 
@@ -30,7 +22,8 @@
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&labelColor=ffffff">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&labelColor=ffffff">
 
-## Links
+## 联系我
 
+- GitHub: [github.com/qikairo7](https://github.com/qikairo7)
 - Portfolio: [checkmygit.com/qikairo7](https://checkmygit.com/qikairo7?template=bento)
 - Homepage: [qikairo7.github.io](https://qikairo7.github.io)
