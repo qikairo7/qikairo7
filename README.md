@@ -1,41 +1,35 @@
-<div align="center">
+<a href="https://github.com/qikairo7/"><img align="right" src="https://komarev.com/ghpvc/?username=qikairo7&label=Views"></a>
 
-<img src="https://github.com/qikairo7.png" width="110" alt="Leo" />
+### Hi! 👋 I'm Leo
 
-# Leo
+- 🧩 最近在做「Agent 工具链」：给 DeepSeek Harness 写插件，把开源协作经验蒸馏成 skill
+- 🤖 关注 AI Agent / LLM 应用 / 开源协作
+- 😊 Open to work，欢迎交流
 
-[![typing](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=560&lines=%E7%BB%99+DeepSeek+Harness+%E5%86%99%E6%8F%92%E4%BB%B6%E5%92%8C+skill;%E6%8A%8A%E5%BC%80%E6%BA%90%E5%8D%8F%E4%BD%9C%E7%BB%8F%E9%AA%8C%E8%92%B8%E9%A6%8F%E6%88%90%E5%8F%AF%E5%A4%8D%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7)](https://checkmygit.com/qikairo7?template=bento)
+### Profile Stats
 
-[![CheckMyGit](https://img.shields.io/badge/CheckMyGit-Portfolio-58A6FF?style=flat-square)](https://checkmygit.com/qikairo7?template=bento)
-[![Open to work](https://img.shields.io/badge/Open_to_work-3FB950?style=flat-square)](https://github.com/qikairo7)
-[![MIT](https://img.shields.io/badge/license-MIT-8B949E?style=flat-square)](https://github.com/qikairo7/dsh-gemini-pool/blob/master/LICENSE)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=qikairo7&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=ffffff" alt="Leo's Profile Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qikairo7&layout=compact&theme=catppuccin_latte&hide_border=true&langs_count=6&bg_color=ffffff" alt="Leo's Top Langs" /> |
+| ------------- | ------------- |
 
-[![skills](https://skillicons.dev/icons?i=js,py,nodejs,md,git,github&theme=dark)](https://skillicons.dev)
+[![Leo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qikairo7&theme=tokyo-night&bg_color=ffffff)](https://github.com/qikairo7)
 
-</div>
+### Working On
 
-<table>
-  <tr>
-    <td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=qikairo7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9" alt="stats" /></td>
-    <td width="50%" align="center"><img src="https://streak-stats.demolab.com?user=qikairo7&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=3FB950&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="streak" /></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qikairo7&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="langs" /></td>
-    <td width="50%" align="center"><img src="https://github-profile-trophy.vercel.app/?username=qikairo7&theme=githubdark&no-frame=true&no-bg=true&column=4&margin-w=8" alt="trophy" /></td>
-  </tr>
-</table>
+- 🔌 **[dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool)** — 多账号 Gemini 提供商：按剩余额度挑账号，429 指数退避切换，后台探活
+- 🧰 **[tencent-oss-suite](https://github.com/qikairo7/tencent-oss-suite)** — 腾讯三个标杆开源仓语料蒸馏出的五个协作 skill
+- 🌐 **[qikairo7.github.io](https://qikairo7.github.io)** — 自动同步 GitHub 数据的作品集主页
 
-<div align="center">
+### Skills & Tech
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qikairo7&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=3FB950&area=true&area_color=1F6FEB&hide_border=true" width="100%" alt="activity graph" />
+💻 Language:
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=ffffff">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&labelColor=ffffff">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&labelColor=ffffff">
+<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&labelColor=ffffff">
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&labelColor=ffffff">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&labelColor=ffffff">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qikairo7/qikairo7/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/qikairo7/qikairo7/output/github-contribution-grid-snake.svg" />
-</picture>
+### Links
 
-<b>Building</b><br/>
-<a href="https://github.com/qikairo7/dsh-gemini-pool">dsh-gemini-pool</a>：多账号 Gemini 模型池，按剩余额度挑账号，429 退避切换，后台探活<br/>
-<a href="https://github.com/qikairo7/tencent-oss-suite">tencent-oss-suite</a>：腾讯三个标杆开源仓语料蒸馏出的五个协作 skill<br/>
-
-</div>
+- Portfolio: [checkmygit.com/qikairo7](https://checkmygit.com/qikairo7?template=bento)
+- Homepage: [qikairo7.github.io](https://qikairo7.github.io)
