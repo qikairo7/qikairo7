@@ -2,7 +2,7 @@
 
 # 你好，我是 Leo
 
-- 🧩 最近在做「Agent 工具链」：给 DeepSeek Harness 写插件，把开源协作经验蒸馏成 skill
+- 🧩 最近在做「Agent 工具链」：给 DeepSeek Harness 写插件
 - 🤖 关注 AI Agent / LLM 应用 / 开源协作
 - 💬 Open to work，欢迎通过 GitHub 联系
 
