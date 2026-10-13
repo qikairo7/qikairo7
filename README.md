@@ -6,12 +6,7 @@
 - 🤖 关注 AI Agent / LLM 应用 / 开源协作
 - 💬 Open to work，欢迎通过 GitHub 联系
 
-## Working On
 
-- 🐧 **[penguin-oss-suite](https://github.com/qikairo7/penguin-oss-suite)** — 腾讯风格开源贡献 skill 套件：12 仓 45k+ 语料实测蒸馏的八个 skill，含流程门禁、文档风格、维护者声纹、建仓脚手架
-- 🔌 **[dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool)** — 多账号 Gemini 提供商：按剩余额度挑账号，429 指数退避切换，后台探活
-- 🧩 **DSH 插件矩阵** — [dsh-market](https://github.com/qikairo7/dsh-market)（可视化插件市场）· [dsh-pua](https://github.com/qikairo7/dsh-pua) · [dsh-free-search](https://github.com/qikairo7/dsh-free-search) · [dsh-watcher](https://github.com/qikairo7/dsh-watcher)
-- 🌐 **[qikairo7.github.io](https://qikairo7.github.io)** — 自动同步 GitHub 数据的作品集主页
 
 ## Skills & Tech
 
